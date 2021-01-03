@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+
+    android:layout_height="wrap_content">
+<ImageView
+    android:layout_width="@dimen/dp_171"
+    android:src="@mipmap/mask"
+    android:layout_height="@dimen/dp_171" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@drawable/white_bottom_shape_10"
+        android:layout_height="wrap_content">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_marginTop="@dimen/dp_3"
+    android:gravity="center"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="宝路狗粮金毛哈士奇中大型中大型犬牛肉通用 7.5kg…"
+        android:textColor="#ff555555"
+        android:textSize="12sp"
+        android:layout_marginTop="@dimen/dp_10"
+        android:layout_marginLeft="@dimen/dp_8"
+        android:layout_marginRight="@dimen/dp_8"
+        />
+
+
+</LinearLayout>
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_marginTop="@dimen/dp_11"
+      android:layout_marginLeft="@dimen/dp_8"
+      android:gravity="bottom"
+      android:layout_marginBottom="@dimen/dp_11"
+      android:layout_height="wrap_content">
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="¥"
+          android:textColor="#ffe8625c"
+          android:textSize="@dimen/sp_10"
+          />
+      <TextView
+          android:layout_width="0dp"
+          android:layout_weight="1"
+          android:layout_height="wrap_content"
+          android:text="10800"
+          android:textColor="#ffe8625c"
+          android:textSize="@dimen/sp_16"
+          android:layout_marginLeft="@dimen/dp_1"
+          />
+      <ImageView
+          android:layout_width="@dimen/dp_28"
+          android:layout_marginRight="@dimen/dp_12"
+          android:layout_height="@dimen/dp_28" />
+  </LinearLayout>
+
+
+</LinearLayout>
+
+</LinearLayout>

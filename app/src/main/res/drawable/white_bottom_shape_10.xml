@@ -9,7 +9,7 @@
         android:width="0.5dp"
         android:color="@color/color_white"/>
     <!-- 圆角 -->
-    <corners android:radius="10dp" />
+    <corners android:bottomLeftRadius="10dp"  android:bottomRightRadius="@dimen/dp_10"/>
     <!-- 边距 -->
     <padding
         android:top="2dp"
