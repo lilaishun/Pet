@@ -2,9 +2,9 @@
 
 
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@drawable/zi_select"
+    <item android:drawable="@drawable/none"
         android:state_checked="false" />
-    <item android:drawable="@drawable/zi_not"
+    <item android:drawable="@drawable/select_line"
         android:state_checked="true" />
 </selector>
 

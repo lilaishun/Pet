@@ -49,6 +49,7 @@
 <TextView
     android:layout_width="wrap_content"
     android:layout_marginTop="@dimen/dp_6"
+    android:layout_marginBottom="@dimen/dp_5"
     android:background="@drawable/yellow_shape_50"
         android:text="点击领养"
         android:textColor="#ff333333"

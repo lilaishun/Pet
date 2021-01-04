@@ -88,6 +88,7 @@ android:layout_alignParentBottom="true"
         android:layout_width="@dimen/dp_74"
         android:layout_height="@dimen/dp_23"
         android:layout_marginTop="@dimen/dp_6"
+        android:layout_marginBottom="@dimen/dp_5"
         android:background="@drawable/yellow_shape_50"
         android:gravity="center">
 
