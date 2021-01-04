@@ -23,6 +23,8 @@ import com.example.pet.view.ViewPagerForScrollView;
 
 import java.util.ArrayList;
 
+import com.gyf.immersionbar.ImmersionBar;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
